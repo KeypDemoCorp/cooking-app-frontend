@@ -1,0 +1,1 @@
+Content for file add-the-search-bar-on-the-main-screen.md
