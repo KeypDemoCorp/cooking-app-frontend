@@ -1,0 +1,1 @@
+Content for file streamline-the-mobile-layout-after-sign-up.md
