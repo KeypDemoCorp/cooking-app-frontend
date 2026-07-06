@@ -1,0 +1,1 @@
+Content for file migrate-the-email-templates-for-new-users.md
