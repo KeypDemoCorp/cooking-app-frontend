@@ -1,0 +1,1 @@
+Content for file simplify-the-checkout-process-across-browsers.md
