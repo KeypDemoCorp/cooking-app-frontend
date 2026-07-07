@@ -1,0 +1,1 @@
+Content for file remove-the-loading-indicators-on-slow-connections.md
