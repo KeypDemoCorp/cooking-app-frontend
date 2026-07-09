@@ -1,0 +1,1 @@
+Content for file polish-the-dashboard-layout-in-the-admin-panel.md
