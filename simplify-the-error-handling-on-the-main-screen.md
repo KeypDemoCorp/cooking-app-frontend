@@ -1,0 +1,1 @@
+Content for file simplify-the-error-handling-on-the-main-screen.md
