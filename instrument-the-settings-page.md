@@ -1,0 +1,1 @@
+Content for file instrument-the-settings-page.md
