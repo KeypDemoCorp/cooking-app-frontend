@@ -1,0 +1,1 @@
+Content for file restructure-the-billing-page-for-screen-readers.md
