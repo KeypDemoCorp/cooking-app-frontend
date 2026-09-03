@@ -1,0 +1,1 @@
+Content for file stabilize-the-user-invitations-in-the-admin-panel.md
