@@ -1,0 +1,1 @@
+Content for file cache-the-error-handling-in-the-admin-panel.md
