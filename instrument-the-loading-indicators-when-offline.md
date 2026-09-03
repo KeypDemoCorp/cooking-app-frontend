@@ -1,0 +1,1 @@
+Content for file instrument-the-loading-indicators-when-offline.md
