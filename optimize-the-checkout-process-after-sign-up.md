@@ -1,0 +1,1 @@
+Content for file optimize-the-checkout-process-after-sign-up.md
