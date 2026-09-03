@@ -1,0 +1,1 @@
+Content for file enhance-the-session-handling-after-sign-up.md
