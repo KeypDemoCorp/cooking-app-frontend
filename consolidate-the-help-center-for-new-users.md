@@ -1,0 +1,1 @@
+Content for file consolidate-the-help-center-for-new-users.md
