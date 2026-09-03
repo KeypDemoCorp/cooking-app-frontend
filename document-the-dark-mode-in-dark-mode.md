@@ -1,0 +1,1 @@
+Content for file document-the-dark-mode-in-dark-mode.md
