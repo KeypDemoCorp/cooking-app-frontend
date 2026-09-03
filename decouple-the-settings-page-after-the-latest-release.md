@@ -1,0 +1,1 @@
+Content for file decouple-the-settings-page-after-the-latest-release.md
