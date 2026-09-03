@@ -1,0 +1,1 @@
+Content for file simplify-the-billing-page-in-the-billing-flow.md
