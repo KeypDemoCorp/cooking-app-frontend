@@ -1,0 +1,1 @@
+Content for file modernize-the-api-client-in-the-admin-panel.md
