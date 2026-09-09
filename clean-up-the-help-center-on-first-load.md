@@ -1,0 +1,1 @@
+Content for file clean-up-the-help-center-on-first-load.md
