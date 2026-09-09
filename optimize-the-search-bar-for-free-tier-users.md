@@ -1,0 +1,1 @@
+Content for file optimize-the-search-bar-for-free-tier-users.md
