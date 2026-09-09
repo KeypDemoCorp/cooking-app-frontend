@@ -1,0 +1,1 @@
+Content for file deprecate-the-user-invitations-on-the-settings-page.md
