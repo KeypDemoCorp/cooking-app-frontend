@@ -1,0 +1,1 @@
+Content for file stabilize-the-activity-feed-in-the-onboarding-tour.md
