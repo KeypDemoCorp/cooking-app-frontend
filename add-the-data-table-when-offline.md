@@ -1,0 +1,1 @@
+Content for file add-the-data-table-when-offline.md
