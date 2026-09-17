@@ -1,0 +1,1 @@
+Content for file simplify-the-search-indexing.md
