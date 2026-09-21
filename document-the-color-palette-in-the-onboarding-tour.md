@@ -1,0 +1,1 @@
+Content for file document-the-color-palette-in-the-onboarding-tour.md
