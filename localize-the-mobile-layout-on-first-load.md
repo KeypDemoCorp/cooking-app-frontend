@@ -1,0 +1,1 @@
+Content for file localize-the-mobile-layout-on-first-load.md
