@@ -1,0 +1,1 @@
+Content for file throttle-the-search-bar-when-offline.md
