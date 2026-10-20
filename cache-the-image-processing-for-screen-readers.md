@@ -1,0 +1,1 @@
+Content for file cache-the-image-processing-for-screen-readers.md
