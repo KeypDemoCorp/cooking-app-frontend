@@ -1,0 +1,1 @@
+Content for file document-the-settings-page-on-mobile.md
