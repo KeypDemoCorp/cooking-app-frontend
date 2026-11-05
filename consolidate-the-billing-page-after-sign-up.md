@@ -1,0 +1,1 @@
+Content for file consolidate-the-billing-page-after-sign-up.md
